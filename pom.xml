@@ -4,4 +4,5 @@
   <artifactId>MyProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>MyProject</name>
+    <name>from main</name>
 </project>
