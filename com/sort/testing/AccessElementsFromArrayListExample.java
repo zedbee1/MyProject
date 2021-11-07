@@ -21,10 +21,8 @@ public class AccessElementsFromArrayListExample {
         System.out.println("Here are the top " + topCompanies.size() + " companies in the world");
         System.out.println(topCompanies);
 
-        // Retrieve the element at a given index
-        String bestCompany = topCompanies.get(0);
-        String secondBestCompany = topCompanies.get(1);
-        String lastCompany = topCompanies.get(topCompanies.size() - 1);
+
+
 
         System.out.println("Best Company: " + bestCompany);
         System.out.println("Second Best Company: " + secondBestCompany);
